@@ -1,3 +1,4 @@
+#live-Preview : https://amrit57.github.io/Weather-App/
 # Weather-App
 Weather App created using HTML, CSS and JS during Javascript Lesson in The Odin Project.
 
